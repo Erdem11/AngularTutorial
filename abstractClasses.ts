@@ -45,4 +45,6 @@ mortgageKredisi.kaydet();
 let kredi : KrediBase
 kredi = new TuketiciKredisi();
 
-kredi = new mortgageKredisi();
+kredi = new MortgageKredisi();
+
+console.log("1")
